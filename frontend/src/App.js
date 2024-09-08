@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      MERN APP
+    <div className="text-purple-950">
+      Hello world
     </div>
   );
 }
